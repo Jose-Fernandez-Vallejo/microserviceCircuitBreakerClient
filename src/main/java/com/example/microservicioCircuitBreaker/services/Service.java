@@ -12,7 +12,7 @@ public class Service {
 	
 	RestTemplate restTemplate = new RestTemplate();
 	
-	String URL = "http://localhost:8888";
+	String URL = "http://localhost:8888/";
 	
 	public Service()
 	{
